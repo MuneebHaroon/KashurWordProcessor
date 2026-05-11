@@ -1,4 +1,4 @@
 # KashurWordProcessor
-A word processor with basic spell checking ability in Kashmiri language. The word processor can allow you to create documents in Nastaliq, Sharda as well as Devanagari  scripts.
-This word processor was created in C#. It uses Hunspell as a spellchecker with a Kashmiri word list that I have created. The application uses Sharda font that I have created and Scheherzade New font, that is from Google. These fonts are are included in the font folder. They can be installed by double clicking on the font files.
+A word processor with basic wordpad like application for Kashmiri language. The word processor can allow you to create documents in Nastaliq script.
+This word processor was created in C#. The documents created are in rtf format and can be opened by most word processors. You do not need a Kashmiri keyboard at all.
 The application uses .net frameworks 4.8. If you are using windows 11 or Windows 10 the chances are that you alreeday have this installed on your PC. If not, then you can download the runtime version directly from Microsoft at https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48 .
